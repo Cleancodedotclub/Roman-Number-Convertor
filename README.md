@@ -1,2 +1,5 @@
-# Roman-Number-Convertor
-JavaScript Roman Numeral Converter is a repository that provides a simple and customizable tool for converting decimal numbers to Roman numerals, built using HTML, CSS, and JavaScript. Roman numerals are a numeral system are used today in various contexts, such as in movie credits, clock faces, and the numbering of book chapters and volumes.
+JavaScript Roman Numeral Converter is a repository that provides a simple and customizable tool for converting decimal numbers to Roman numerals, built using HTML, CSS, and JavaScript. Roman numerals are a numeral system that originated in ancient Rome and are still used today in various contexts, such as in movie credits, clock faces, and the numbering of book chapters and volumes.
+
+The repository includes a set of HTML, CSS, and JavaScript files that provide the foundation for the Roman numeral converter tool. The HTML files include the basic structure for the tool and user interface, while the CSS files provide the styling and layout of the tool buttons and display. The JavaScript files contain the logic and algorithms for converting decimal numbers to Roman numerals, as well as updating the tool display.
+
+Users can customize the Roman numeral converter tool by modifying the JavaScript code or adding new features. The code is well-documented and easy to understand, making it accessible for developers of all skill levels.
